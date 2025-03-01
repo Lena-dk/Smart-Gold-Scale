@@ -14,7 +14,7 @@ It is ideal for jewelry stores, gold traders, and regulatory bodies.
 ## How It Works  
 1️⃣ Power on the Smart Gold Scale.  
 2️⃣ Determine thr Carat of the gold item.
-3️⃣ Place the gold item on the scale.  
+3️⃣ Place the gold item on the scale.                             
 4️⃣ The weight is measured with high accuracy.  
 5️⃣ The price is automatically calculated.  
 
