@@ -17,5 +17,14 @@ It is ideal for jewelry stores, gold traders, and regulatory bodies.
 3️⃣ Place the gold item on the scale.                            
 4️⃣ The price is automatically calculated.  
 
+## Awards & Recognition  
+
+🏅 **Silver Medal**  
+   Seoul International Invention Fair.  
+
+🏆 **Special Awards**  
+   - From **UAE**  
+   - From **Taiwan**  
+   - From **Malaysia**  
 
 ![Smart Gold Scale](IMG_8925.jpeg)
